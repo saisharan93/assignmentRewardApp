@@ -5,10 +5,10 @@ A customer receives 2 points for every dollar spent over $100 in each transactio
  
 Given a record of every transaction during a three-month period, calculate the reward points earned for each customer per month and total.
  
-Use React JS (do not use TypeScript)
-Simulate an asynchronous API call to fetch data
-Make up a data set to best demonstrate your solution
-Check solution into GitHub
+1. Use React JS (do not use TypeScript)
+2. Simulate an asynchronous API call to fetch data
+3. Make up a data set to best demonstrate your solution
+4. Check solution into GitHub
 
 Please do "npm install" for installing the dependencies
 
